@@ -6,11 +6,11 @@
 
 
 <hr>
-
+<h1> I'm Current Working on!</h1>
 - 🌱 I’m currently learning Machine Learning and building projects
 - 👯 I’m looking to build some good projects in Machine Learning
 - 👯 I'm also look forward to contribute in some open source software projects.
 - 💬 I've a knack in Angular. You can ask me about Angular.
 
-<h1> You Can Reach Me </h1>
-<a href="https://www.linkedin.com/in/avirup-mondal-0ba746151/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA" ></a>
+<h1> You Can Reach out to Me </h1>
+<a href="https://www.linkedin.com/in/avirup-mondal-0ba746151/"><img src="https://drive.google.com/file/d/15OQ1AedpNEsGnYb4q7fUVlTSrymhUlGv/view?usp=sharing" ></a>
