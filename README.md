@@ -13,4 +13,4 @@
 - 💬 I've a knack in Angular. You can ask me about Angular.
 
 <h1> You Can Reach out to Me </h1>
-<a href="https://www.linkedin.com/in/avirup-mondal-0ba746151/"><img src="https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png" ></a>
+<a href="https://www.linkedin.com/in/avirup-mondal-0ba746151/"><img src="https://www.flaticon.com/authors/freepik"></a>
