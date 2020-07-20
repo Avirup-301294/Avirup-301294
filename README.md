@@ -12,5 +12,5 @@
 - 👯 I'm also look forward to contribute in some open source software projects.
 - 💬 I've a knack in Angular. You can ask me about Angular.
 
-<h1> You Can Reach out to Me </h1>
-<a href="https://www.linkedin.com/in/avirup-mondal-0ba746151/"><img src="https://www.flaticon.com/authors/freepik"></a>
+<h1>Reach out to Me</h1>
+<a href="https://www.linkedin.com/in/avirup-mondal-0ba746151"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-64.png"></a>
