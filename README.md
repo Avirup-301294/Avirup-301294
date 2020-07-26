@@ -2,7 +2,7 @@
 <p>I'm Avirup. I'm Computer Science graduate from Universitry of Engineering and Management. I've a keen interest to work in software and I want to make human-centric software which will help us in some way. Apart from this, I love to do Mathematics and have an long term interest in calculus.</p>
 <hr>
 
-<img src="https://specials-images.forbesimg.com/imageserve/5eb5db1ce141140006a7b4c9/960x0.jpg?cropX1=0&cropX2=7478&cropY1=469&cropY2=3395" alt="Markdown Monster icon" style="float: left; margin-right: 10px;">
+<img src="https://s3-ap-southeast-1.amazonaws.com/letsintern.com/misc/images/letsintern_login.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;">
 
 
 <hr>
