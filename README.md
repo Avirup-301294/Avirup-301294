@@ -9,8 +9,7 @@ Besides this, I'm highly motivated towards front end framework which is Angular.
 I have a knack in solving real world problems and learning new technology, and also wanted to work and improve current technology to increase efficiency of my skills. Therefore, I am starting to work with open source in my leisure time.
 </p>
 <hr>
-![](https://s3-ap-southeast-1.amazonaws.com/letsintern.com/misc/images/letsintern_login.png =100x20)
-
+<img src="https://s3-ap-southeast-1.amazonaws.com/letsintern.com/misc/images/letsintern_login.png" width="100px; height="100px" alt="Markdown Monster icon">
 <hr>
 <h1>I'm Current Working on!</h1>
 <ul>
