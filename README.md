@@ -18,4 +18,4 @@ I have worked on several projects in Web Development and I have gained a lot of 
 <hr>
 
 <h1>Reach out to Me</h1>
-<a href="https://www.linkedin.com/in/avirup-mondal-0ba746151"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-64.png" width="40px" height="40px" color="black"></a>
+<a href="https://www.linkedin.com/in/avirup-mondal-0ba746151"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-64.png" style="width: "40px"; height:"40px"; color: black;></a>
