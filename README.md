@@ -23,6 +23,6 @@ I have worked on several projects in Web Development and I have gained a lot of 
   <img src="https://image.flaticon.com/icons/png/512/61/61109.png" "width= "40px" height="40px">
 </a>
 <a href="https://www.facebook.com/avirup49/">
-    <img src="https://i.pinimg.com/originals/ca/3b/f0/ca3bf05cfab74677e5b73b130bd30991.png" width="50px" height="50px">
+   <img src="https://i.pinimg.com/originals/ca/3b/f0/ca3bf05cfab74677e5b73b130bd30991.png" width="45px" height="45px">
 </a>                                                                                              
 </div>
