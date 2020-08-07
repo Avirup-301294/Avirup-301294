@@ -18,11 +18,5 @@ I have worked on several projects in Web Development and I have gained a lot of 
 <hr>
 
 <h1>Reach out to Me</h1>
-<div>
-<a href="https://www.linkedin.com/in/avirup-mondal-0ba746151">
-  <img src="https://image.flaticon.com/icons/png/512/61/61109.png" "width= "40px" height="40px">
-</a>
-<a href="https://www.facebook.com/avirup49/">
-   <img src="https://www.pinclipart.com/picdir/middle/81-815589_facebook-comments-black-fb-logo-png-clipart.png" width="40px" height="40px">
-</a>                                                                                              
-</div>
+<a href="https://www.linkedin.com/in/avirup-mondal-0ba746151"><img src="https://image.flaticon.com/icons/png/512/61/61109.png" "width= "40px" height="40px"></a>
+<a href="https://www.facebook.com/avirup49/"><img src="https://www.pinclipart.com/picdir/middle/81-815589_facebook-comments-black-fb-logo-png-clipart.png" width="48px" height="48px"></a>                                                                                              
