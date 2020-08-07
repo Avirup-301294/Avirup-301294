@@ -10,7 +10,7 @@ I have a knack in solving real world problems and learning new technology, and a
 </p>
 <hr>
 
-<img src="https://s3-ap-southeast-1.amazonaws.com/letsintern.com/misc/images/letsintern_login.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;">
+<img src="https://s3-ap-southeast-1.amazonaws.com/letsintern.com/misc/images/letsintern_login.png" alt="Markdown Monster icon" style="width:100px; height:100px; float: left; margin-right: 10px;">
 
 
 <hr>
