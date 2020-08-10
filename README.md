@@ -1,5 +1,4 @@
-<h1> AVIRUP MONDAL</h1>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="40px" height="40px">
+<h1> AVIRUP MONDAL</h1> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="100px" height="100px">
 <hr>
 <p>I'm Avirup. I'm Computer Science graduate from Universitry of Engineering and Management. I've a keen interest to work in software and I want to make human-centric software which will help us in some way. Apart from this, I love to do Mathematics and have an long term interest in calculus. 
 
@@ -9,7 +8,6 @@ I have worked on several projects in Web Development and I have gained a lot of 
 </p>
 <hr>
 <img src="https://giphy.com/gifs/ifN67Qqry3nZ6OQbx0" width="400px; height="400px" alt="Markdown Monster icon">
-<img src="https://media.giphy.com/media/3oxHQM2nelb4qWtoje/giphy.gif"  width="200px; height="200px">
 <hr>
 <h1>I'm Current Working on!</h1>
 <ul>
@@ -18,7 +16,6 @@ I have worked on several projects in Web Development and I have gained a lot of 
   <li>👯 I'm also look forward to contribute in some open source software projects.</li>
   <li>💬 I've a knack in Angular. You can ask me about Angular.</li>
 </ul>
-
 <img src="https://camo.githubusercontent.com/557146581556b92fff91d5056176e44185fb63ff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c384b36326954446b7a4758362f67697068792e676966" >
 <hr>
 
