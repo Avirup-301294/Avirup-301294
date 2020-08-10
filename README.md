@@ -6,8 +6,8 @@ I'm currently learning Machine Learning and its Mathematical aspects which I ass
 I have worked on several projects in Web Development and I have gained a lot of experience. More specifically, technology used on those projects include Nodejs, Express and Ejs. Authentication and Authorization was also implemented with respect to those projects.
 </p>
 <hr>
-
-<img src="https://media.giphy.com/media/3oxHQM2nelb4qWtoje/giphy.gif">
+<img src="https://s3-ap-southeast-1.amazonaws.com/letsintern.com/misc/images/letsintern_login.png" width="400px; height="400px" alt="Markdown Monster icon">
+<img src="https://media.giphy.com/media/3oxHQM2nelb4qWtoje/giphy.gif"  width="200px; height="200px">
 <hr>
 <h1>I'm Current Working on!</h1>
 <ul>
