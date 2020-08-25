@@ -18,8 +18,8 @@ I have worked on several projects in Web Development and have gained a lot of ex
   <li>👯 I'm also look forward to contribute in some open source software projects.</li>
   <li>💬 I've a knack in Angular. You can ask me about Angular.</li>
 </ul>
-<div align="center>
-<img src="https://camo.githubusercontent.com/557146581556b92fff91d5056176e44185fb63ff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c384b36326954446b7a4758362f67697068792e676966" width="400px; height="400px"> </div>
+
+<img src="https://powerful-everglades-93359.herokuapp.com/66-J_93VA">
 <h1>Reach out to Me</h1>
 <a href="https://www.facebook.com/avirup49/"><img src="https://w7.pngwing.com/pngs/938/833/png-transparent-computer-icons-facebook-social-media-share-logo-linkedin-social-networking-service.png" width="40px" height="40px"></a>                                                                                              
 <a href="https://www.linkedin.com/in/avirup-mondal-0ba746151"><img src="https://image.flaticon.com/icons/png/512/61/61109.png" "width= "40px" height="40px"></a>
