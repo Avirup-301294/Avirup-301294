@@ -1,6 +1,6 @@
 <h1> AVIRUP MONDAL</h1> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="200px" height="200px">
 <hr>
-<h3> Hey, there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="20px" height="20px"></h3>
+<h3> Hey, Folks! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="20px" height="20px"></h3>
 <p> I'm Avirup. I'm a Computer Science grad from Universitry of Engineering and Management. I've a keen interest to work in software and I want to make human-centric software which will help us in some way. Apart from this, I love to do Design UI/UX. 
 
 I have worked on several projects in Web Development and have gained a lot of experience.
