@@ -1,14 +1,15 @@
-<h1> AVIRUP MONDAL</h1> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="100px" height="100px">
+<h1> AVIRUP MONDAL</h1> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="200px" height="200px">
 <hr>
 <h3> Hey, there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="20px" height="20px"></h3>
-<p> I'm Avirup. I'm Computer Science graduate from Universitry of Engineering and Management. I've a keen interest to work in software and I want to make human-centric software which will help us in some way. Apart from this, I love to do Mathematics and have an long term interest in calculus. 
+<p> I'm Avirup. I'm a Computer Science grad from Universitry of Engineering and Management. I've a keen interest to work in software and I want to make human-centric software which will help us in some way. Apart from this, I love to do Design UI/UX. 
 
-I'm currently learning Machine Learning and its Mathematical aspects which I assume is much needed for everyone before diving into Machine Learning or Statistical Learning.
-
-I have worked on several projects in Web Development and I have gained a lot of experience. More specifically, technology used on those projects include Nodejs, Express and Ejs. Authentication and Authorization was also implemented with respect to those projects.
+I have worked on several projects in Web Development and have gained a lot of experience.
 </p>
 <hr>
+<div align="center">
 <img src="https://media.giphy.com/media/ifN67Qqry3nZ6OQbx0/giphy.gif" width="400px; height="400px" alt="Markdown Monster icon">
+</div>
+
 <hr>
 <h1>I'm Current Working on!</h1>
 <ul>
@@ -17,8 +18,8 @@ I have worked on several projects in Web Development and I have gained a lot of 
   <li>👯 I'm also look forward to contribute in some open source software projects.</li>
   <li>💬 I've a knack in Angular. You can ask me about Angular.</li>
 </ul>
-<img src="https://camo.githubusercontent.com/557146581556b92fff91d5056176e44185fb63ff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c384b36326954446b7a4758362f67697068792e676966" >
-
+<div align="center>
+<img src="https://camo.githubusercontent.com/557146581556b92fff91d5056176e44185fb63ff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c384b36326954446b7a4758362f67697068792e676966" width="400px; height="400px"> </div>
 <h1>Reach out to Me</h1>
 <a href="https://www.facebook.com/avirup49/"><img src="https://w7.pngwing.com/pngs/938/833/png-transparent-computer-icons-facebook-social-media-share-logo-linkedin-social-networking-service.png" width="40px" height="40px"></a>                                                                                              
 <a href="https://www.linkedin.com/in/avirup-mondal-0ba746151"><img src="https://image.flaticon.com/icons/png/512/61/61109.png" "width= "40px" height="40px"></a>
