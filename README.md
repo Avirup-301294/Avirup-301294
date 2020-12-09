@@ -19,6 +19,5 @@ I have worked on several projects in Web Development and have gained a lot of ex
 <img src="https://camo.githubusercontent.com/557146581556b92fff91d5056176e44185fb63ff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c384b36326954446b7a4758362f67697068792e676966">
 
 <h1>Reach out to Me</h1>
-<a href="https://www.facebook.com/avirup49/"><img src="https://w7.pngwing.com/pngs/938/833/png-transparent-computer-icons-facebook-social-media-share-logo-linkedin-social-networking-service.png" width="40px" height="40px"></a>                                                                                              
-<a href="https://www.linkedin.com/in/avirup-mondal-0ba746151"><img src="https://image.flaticon.com/icons/png/512/61/61109.png" "width= "40px" height="40px"></a>
-<a href="https://sourcerer.io/avirup-301294"><img src="https://avatars1.githubusercontent.com/u/29913589?s=400&v=4" "width= "40px" height="40px"></a>
+<a href="https://www.facebook.com/avirup49/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1200px-Facebook_f_logo_%282019%29.svg.png" width="40px" height="40px"></a>
+<a href="https://www.linkedin.com/in/avirup-mondal-0ba746151"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" "width= "40px" height="40px"></a>
