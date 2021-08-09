@@ -1,23 +1,52 @@
-<h1> AVIRUP MONDAL</h1> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="200px" height="200px">
+<h2> Hey, Folks! </h2> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="200px" height="200px">
 <hr>
-<h3> Hey, Folks! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="20px" height="20px"></h3>
-<p> I'm Avirup. I'm a Computer Science grad from Universitry of Engineering and Management. I've a keen interest to work in software and I want to make human-centric software which will help us in some way. Apart from this, I love to do Design UI/UX. 
-
-I have worked on several projects in Web Development and have gained a lot of experience.
-</p>
+<h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="20px" height="20px"></h3>
+<p> I'm <b>Avirup</b>. I'm a <b>Product Support Engineer</b> in <em>Crio.Do</em>. I've keen interest in Software Development and also writing some interesting Scripts in python like recently I wrote a script for zoom api fetch which fetches data from zoom recordings and save in google sheets. I have also known to google Analytics and Google Cloud platform. Apart from this, I love to Design. </p>
+<p>I've know to web dev frameworks like React, Next JS, Spring Boot and Angular. </p>
+<p>I have also interested in deployments and for that I have learnt AWS - EC2, ECS, Load Balancing, Networking, VPC and Subnets.</p>
 <hr>
-<img src="https://media.giphy.com/media/ifN67Qqry3nZ6OQbx0/giphy.gif" width="400px; height="400px" alt="Markdown Monster icon">
-
-<hr>
-<h1>I'm Current Working on!</h1>
+<!-- <img src="https://media.giphy.com/media/ifN67Qqry3nZ6OQbx0/giphy.gif" width="400px; height="400px" alt="Markdown Monster icon"> -->
+<h3>I'm Current Working in</h3>
 <ul>
-  <li>🌱 I’m currently learning Machine Learning and building projects</li>
-  <li>👯 I’m looking to build some good projects in Machine Learning</li>
-  <li>👯 I'm also look forward to contribute in some open source software projects.</li>
-  <li>💬 I've a knack in Angular. You can ask me about Angular.</li>
+  <li>🌱 Docker and Kubernetes</li>
+  <li>👯 Gaining Software Debugging skills </li>
+  <li>👯 Learning Jenkins and Metabase </li>
 </ul>
-<img src="https://camo.githubusercontent.com/557146581556b92fff91d5056176e44185fb63ff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c384b36326954446b7a4758362f67697068792e676966">
-
-<h1>Reach out to Me</h1>
-<a href="https://www.facebook.com/avirup49/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1200px-Facebook_f_logo_%282019%29.svg.png" width="40px" height="40px"></a>
-<a href="https://www.linkedin.com/in/avirup-mondal-0ba746151"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" "width= "40px" height="40px"></a>
+<img src="https://camo.githubusercontent.com/557146581556b92fff91d5056176e44185fb63ff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c384b36326954446b7a4758362f67697068792e676966" "width= "150px" height="150px">
+<h3>Skills</h3>
+<table>
+  <tr>
+    <th>Language</th>
+    <th>Frameworks</th>
+    <th>Tools, Cloud & Devops</th>
+  </tr>
+   <tr>
+    <td>C/C++</td>
+    <td>React</td>
+    <td>Jenkins</td>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td>Spring, Spring Boot, Hibernate</td>
+    <td>Metabase</td>
+  </tr> 
+  <tr>
+    <td>Python</td>
+    <td>Angular</td>
+    <td>Docker and Kubernetes</td>
+  </tr> 
+  <tr>
+    <td>HTML/CSS</td>
+    <td>NextJS</td>
+    <td>AWS - EC2, ECS, S3</td>
+  </tr>
+  <tr>
+    <td>Java Script</td>
+    <td>Express</td>
+    <td>MongoDB Atlas</td>
+  </tr>
+</table>
+ <hr>  
+<h3>Reach out to Me!</h3>
+<a href="https://www.facebook.com/avirup49/"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/facebook_icon_130940.png" width="40px" height="40px"></a>
+<a href="https://www.linkedin.com/in/avirup-mondal-0ba746151"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" "width= "40px" height="40px"></a>
