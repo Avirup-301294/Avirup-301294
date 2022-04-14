@@ -8,7 +8,8 @@
 <!-- <img src="https://media.giphy.com/media/ifN67Qqry3nZ6OQbx0/giphy.gif" width="400px; height="400px" alt="Markdown Monster icon"> -->
 <h3>I'm Current Working in</h3>
 <ul>
-  <li>🌱 Spring Boot, Redis, MOngoDB</li>
+  <li>🌱 Spring Boot, Redis, MongoDB</li>
+  <li>🌱 Python / Shell Scripting</li>
   <li>👯 Doker and Kubernetes are my secondary learnings</li>
   <li>👯 Learned Jenkins and Metabase </li>
 </ul>
