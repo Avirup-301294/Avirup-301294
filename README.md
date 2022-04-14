@@ -48,5 +48,5 @@
 </table>
  <hr>  
 <h3>Reach out to Me!</h3>
-<a href="https://www.facebook.com/avirup49/"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/facebook_icon_130940.png" width="40px" height="40px"></a>
-<a href="https://www.linkedin.com/in/avirup-mondal-0ba746151"><img src="https://180dc.org/wp-content/uploads/2020/01/Linkedin-logo-1-550x550-300x300.png" "width= "40px" height="40px"></a>
+<a href="https://www.facebook.com/avirup49/"><img src="https://i0.wp.com/www.kansasbuckskin.com/wp-content/uploads/2018/05/Facebook-PNG-Image-38915.png?fit=512%2C512" "width= "50px" height="45px"></a>
+<a href="https://www.linkedin.com/in/avirup-mondal-0ba746151"><img src="https://180dc.org/wp-content/uploads/2020/01/Linkedin-logo-1-550x550-300x300.png" "width= "40px" height="45px"></a>
