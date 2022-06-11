@@ -1,15 +1,15 @@
 <h2> Hey, Folks! </h2> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="200px" height="200px">
 <hr>
 <h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="20px" height="20px"></h3>
-<p> I'm <b>Avirup</b>. I'm a <b>Product Support Engineer</b> in <em>Crio.Do</em>. I've keen interest in Software Development and also writing interesting Scripts in python. Recently I did some scripting, end-to-end with zoom api, which fetches data from zoom meeting and saved in spresheets for later analysis  </p>
-<p>I've known to web dev frameworks like React, Next JS, Spring Boot. </p>
-<p>I have also interested in deployments and for that I have learnt AWS - EC2, ECS, Load Balancing, Networking, VPC and Subnets.</p>
+<p> I'm <b>Avirup</b>. I'm a <b>Backend Engineer</b> at <em>Crio.Do</em>. I've keen interest in Software Development and also writing interesting Scripts in python. Recently I did some scripting, end-to-end with zoom api, which fetches data from zoom sessions and saved in spresheets for later analysis  I have been with scripting for more than 1.5yr and totally enjoying the flavour. I also like LLD problems, I recently solve problems from Geektrust.  </p>
+<p>I've known to web dev frameworks like React, Spring Boot, Node JS  </p>
+<p>I am also sourcing my knowledge in clouds, systems, deisgn, & architecture</p>
 <hr>
 <!-- <img src="https://media.giphy.com/media/ifN67Qqry3nZ6OQbx0/giphy.gif" width="400px; height="400px" alt="Markdown Monster icon"> -->
 <h3>I'm Current Working in</h3>
 <ul>
   <li>🌱 Spring Boot, Redis, MongoDB</li>
-  <li>🌱 Python / Shell Scripting</li>
+  <li>🌱 Python / Shell Scripting / Git / Linux</li>
   <li>👯 Doker and Kubernetes are my secondary learnings</li>
   <li>👯 Learned Jenkins and Metabase </li>
 </ul>
