@@ -1,7 +1,7 @@
 <h2> Hey, Folks! </h2> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="200px" height="200px">
 <hr>
 <h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="20px" height="20px"></h3>
-<p> I'm <b>Avirup</b>. I'm a <b>Backend Engineer</b> at <em>Crio.Do</em>. Tested +ve for Software Development :P. I've interest in Script writing in python and Automate process. Recently I did few scripting, end-to-end with zoom api, which fetch data from zoom sessions and saved in spresheets for later analysis  I have been with scripting for more than 1.5yr and totally enjoying the flavour. I also like LLD problems, I recently solve few problems from Geektrust in Spring Java and acheive a Silver Badge.  </p>
+<p> I'm <b>Avirup</b>. I'm a <b>Software Engineer</b> at <em>Crio.Do</em>. Tested +ve for Software Development :P. I've interest in Script writing in python and Automate process. Recently I did few scripting, end-to-end with zoom api, which fetch data from zoom sessions and saved in spresheets for later analysis  I have been with scripting for more than 1.5yr and totally enjoying the flavour. I also like LLD problems, I recently solve few problems from Geektrust in Spring Java and acheive a Silver Badge.  </p>
 <p>I've known to web dev frameworks like React, Spring Boot, Node JS  </p>
 <p>I am also sourcing my knowledge in clouds, systems, deisgn, & architecture</p>
 <hr>
