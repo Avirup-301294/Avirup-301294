@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/avi49/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href=https://leetcode.com/__avi__49/">
+   <a href="https://leetcode.com/__avi__49/">
     <img src="https://img.shields.io/badge/-LeetCode-lightgrey?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black&color=orange" alt="Leetcode Badge"/>
   </a>
   <a href="https://twitter.com/AvirupMondal10">
