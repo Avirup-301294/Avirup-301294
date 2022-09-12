@@ -1,53 +1,66 @@
-<h2> Hey, Folks! </h2> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="200px" height="200px">
-<hr>
-<h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="20px" height="20px"></h3>
-<p> I'm <b>Avirup</b>. I'm a <b>Software Engineer</b> at <em>Crio.Do</em>. Tested +ve for Software Development :P. I've interest in Script writing in python and Automate process. Recently I did few scripting, end-to-end with zoom api, which fetch data from zoom sessions and saved in spresheets for later analysis  I have been with scripting for more than 1.5yr and totally enjoying the flavour. I also like LLD problems, I recently solve few problems from Geektrust in Spring Java and acheive a Silver Badge.  </p>
-<p>I've known to web dev frameworks like React, Spring Boot, Node JS  </p>
-<p>I am also sourcing my knowledge in clouds, systems, deisgn, & architecture</p>
-<hr>
-<!-- <img src="https://media.giphy.com/media/ifN67Qqry3nZ6OQbx0/giphy.gif" width="400px; height="400px" alt="Markdown Monster icon"> -->
-<h3>I'm Current Working in</h3>
-<ul>
-  <li>🌱 Spring Boot, Redis, MongoDB</li>
-  <li>🌱 Python / Shell Scripting / Git / Linux</li>
-  <li>👯 Doker and Kubernetes are my secondary learnings</li>
-  <li>👯 Learned Jenkins and Metabase </li>
-</ul>
-<img src="https://camo.githubusercontent.com/557146581556b92fff91d5056176e44185fb63ff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c384b36326954446b7a4758362f67697068792e676966" "width= "150px" height="150px">
-<h3>Skills</h3>
-<table>
-  <tr>
-    <th>Language</th>
-    <th>Frameworks</th>
-    <th>Tools, Cloud & Devops</th>
-  </tr>
-   <tr>
-    <td>C/C++</td>
-    <td>React</td>
-    <td>Jenkins</td>
-  </tr>
-  <tr>
-    <td>Java</td>
-    <td>Spring, Spring Boot, Hibernate</td>
-    <td>Metabase</td>
-  </tr> 
-  <tr>
-    <td>Python</td>
-    <td>Angular</td>
-    <td>Docker and Kubernetes</td>
-  </tr> 
-  <tr>
-    <td>HTML/CSS</td>
-    <td>NextJS</td>
-    <td>AWS - EC2, ECS, S3</td>
-  </tr>
-  <tr>
-    <td>Java Script</td>
-    <td>Express</td>
-    <td>MongoDB Atlas</td>
-  </tr>
-</table>
- <hr>  
-<h3>Reach out to Me!</h3>
-<a href="https://www.facebook.com/avirup49/"><img src="https://i0.wp.com/www.kansasbuckskin.com/wp-content/uploads/2018/05/Facebook-PNG-Image-38915.png?fit=512%2C512" "width= "50px" height="45px"></a>
-<a href="https://www.linkedin.com/in/avirup-mondal-0ba746151"><img src="https://180dc.org/wp-content/uploads/2020/01/Linkedin-logo-1-550x550-300x300.png" "width= "40px" height="45px"></a>
+<div id="header" align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="200px" height="200px">
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/avi49/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a href=https://leetcode.com/__avi__49/">
+    <img src="https://img.shields.io/badge/-LeetCode-lightgrey?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black&color=orange" alt="Leetcode Badge"/>
+  </a>
+  <a href="https://twitter.com/AvirupMondal10">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<div id="profileViews" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Avirup-301294"/>
+</div>
+
+<div id="greetings" align="center">
+  <h1>
+    Hey, I'm Avirup!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+
+<div id="banner" align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### :man_technologist: About Me :
+
+- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
+
+- :seedling: Exploring Automation with Python and Selenium.
+
+- :zap: In my free time, I solve problems on Leetcode and learn new techs.
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" **alt="VsCode" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" **alt="jenkins" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" title="heroku" **alt="heroku" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="gradle" **alt="gradle" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" **alt="github" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" **alt="gitlab" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="bitbucket" **alt="bitbucket" width="40" height="40"/>
+</div>
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Avirup-301294&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
+
+
+[![Avirup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avirup-301294&show_icons=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
