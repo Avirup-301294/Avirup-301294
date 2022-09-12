@@ -60,7 +60,6 @@
 </div>
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avirup-301294&&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Avirup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avirup-301294&show_icons=true&theme=nightowl&count_private=true&hide_border=true)      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Avirup-301294&theme=nightowl&count_private=true&hide_border=true)](https://git.io/streak-stats)
 
