@@ -53,7 +53,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" **alt="VsCode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" **alt="jenkins" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" title="heroku" **alt="heroku" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="gradle" **alt="gradle" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="gradle" **alt="gradle" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" **alt="github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" **alt="gitlab" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="bitbucket" **alt="bitbucket" width="40" height="40"/>
