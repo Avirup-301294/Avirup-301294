@@ -11,7 +11,7 @@
   <a href="https://leetcode.com/avi49/">
     <img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white" alt="Leetcode Badge"/>
   </a>
-  <a href="https://twitter.com/AvirupMondal10">
+  <a href="https://x.com/avirup94">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
