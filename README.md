@@ -1,156 +1,186 @@
-<!-- HEADER SECTION -->
-<div id="header" align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="200px" height="200px"/>
-</div>
-
-<!-- SOCIAL LINKS -->
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/avi49/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://leetcode.com/avi49/">
-    <img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white" alt="Leetcode Badge"/>
-  </a>
-  <a href="https://x.com/avirup94">
-    <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-<div id="profileViews" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Avirup-301294&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
-
----
-
-<!-- TYPING ANIMATION INTRO -->
-
-![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=000000&width=600&center=true&vCenter=true&lines=Hey+there!+I'm+Avirup+Mondal+👋;Solutions+Engineer+@+Amazon;Backend+Developer+|+Automation+Enthusiast;AI%2FML+Explorer+|+Problem+Solver+on+LeetCode)
-
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="banner"/>
+
+# ⚡ A V I R U P • M O N D A L ⚡
+### `Senior Engineer` • `AI / ML Explorer` • `Cloud Dev Enthusiast`
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Java+%7C+Spring+Boot+%7C+AWS;AI+%7C+LLMs+%7C+System+Design;Always+Learning+🚀+Something+New"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:06b6d4&text=WELCOME%20TO%20MY%20DIGITAL%20SPACE&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avi49)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/avi49)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/avirup94)
+
+<img src="https://komarev.com/ghpvc/?username=Avirup-301294&label=Visitors&color=00F7FF&style=for-the-badge"/>
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+# ⚙ SYSTEM.STATUS()
 
-- 🚀 **Solutions Engineer @ Amazon** — building scalable solutions, automation & backend systems  
-- 🌱 Currently exploring **AI/ML, Spring Boot microservices, and system design**  
-- 💡 Passionate about **developer experience**, **automation**, and **performance optimization**  
-- ⚡ Actively solving **DSA problems** on [Leetcode](https://leetcode.com/avi49/) & **GFG**  
-- 🎓 Pursuing **MTech in AI & ML (BITS Pilani)**  
-- 🧰 Strong with **Java | Python | AWS | Spring Boot | MongoDB | React**
-
----
-
-### 💼 Quick Summary
-
-| 🧩 Area | 💡 Focus |
-|---------|----------|
-| 🎯 **Role** | Solutions Engineer (Backend, Automation, Support Excellence) |
-| 🏢 **Company** | Amazon (Fire TV) |
-| 🧠 **Experience** | 4+ Years |
-| 🚀 **Tech Stack** | Java, Spring Boot, Python, React, MongoDB, AWS |
-| 📘 **Currently Learning** | ML System Optimization, AI-driven Automation |
-| 🧩 **Interests** | AI/ML, DevOps, Cloud Architecture, Full Stack Development |
+```yaml
+Name        : Avirup Mondal
+Role        : Senior Engineer
+Education   : M.Tech (AI & ML), BITS Pilani
+Focus       : • AI / ML • Cloud • Agentic AI • Automation
+Status      : Building Intelligent Systems...
+Location    : Bangalore, KA, India
+```
 
 ---
 
-### 🛠️ Languages & Tools
+# 🤖 ABOUT_ME.exe
 
-#### 🧩 Languages  
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="45" height="45" alt="Java"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS"/>
-</p>
+```python
+class Avirup:
+    title = "Senior Engineer"
 
-#### ⚙️ Frameworks  
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="45" height="45" alt="Android"/>
-</p>
+    passions = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Cloud Engineering",
+        "Agentic AI",
+        "Gen AI",
+        "Automation",
+    ]
 
-#### ☁️ Cloud & Databases  
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" alt="AWS"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="45" height="45" alt="Heroku"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins"/>
-</p>
+    currently_learning = {
+        "LLMs",
+        "RAG",
+        "Agentic AI",
+        "Kubernetes",
+        "LangChain",
+        "LangGraph",
+    }
 
-#### 🧰 Build & DevOps  
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" width="45" height="45" alt="Gradle"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" width="45" height="45" alt="Maven"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-</p>
-
-#### 🧭 Version Control  
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="45" height="45" alt="GitLab"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" width="45" height="45" alt="Bitbucket"/>
-</p>
-
-#### 💻 IDEs & OS  
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VSCode"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="45" height="45" alt="Ubuntu"/>
-</p>
+    loves_coffee = True
+```
 
 ---
 
-### 🚀 Featured Projects
+# 🚀 TECH STACK
 
-| 💻 Project | 🚀 Description | 🛠️ Tech |
-|------------|----------------|----------|
-| 🔹 [AI Resume Analyzer](https://github.com/Avirup-301294/ai-resume-analyzer) | NLP-based resume scanner with job-role matching | Python, OpenAI, Flask |
-| 🔹 [Automation Suite](https://github.com/Avirup-301294/automation-suite) | Selenium & Python-based UI automation suite | Python, Selenium |
-| 🔹 [SpringBoot Microservice Starter](https://github.com/Avirup-301294/springboot-template) | Starter microservice with logging, monitoring, Swagger | Java, Spring Boot, Docker |
+### Languages
 
-> 🏷️ *Check pinned repositories below for more projects.*
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,git,github,gitlab,bitbucket"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,react"/>
+</p>
+
+
 
 ---
 
-### 📊 GitHub Stats
+# 🛰 CURRENT MISSION
+
+```text
+[██████████████████░░] AI/ML Engineering
+
+[███████████████░░░░] AI Applications
+
+[████████████████░░] System Design
+
+[█████████████░░░░░] Open Source
+
+[██████████████░░░░] LeetCode
+```
+
+---
+
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-| 🔥 Streak | 🌟 Stats | 💬 Languages |
-|:---------:|:--------:|:-------------:|
-| [![GitHub Streak](https://streak-stats.demolab.com?user=Avirup-301294&theme=nightowl&hide_border=true)](https://git.io/streak-stats) | ![Avirup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avirup-301294&show_icons=true&theme=nightowl&count_private=true&hide_border=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avirup-301294&layout=compact&theme=nightowl&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| GitHub Stats | Streak |
+|:------------:|:------:|
+| <img src="https://github-stats-extended.vercel.app/api?username=Avirup-301294&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border=0" width="450"/> | <img src="https://streak-stats.demolab.com?user=Avirup-301294&theme=tokyonight&hide_border=true" width="450"/> |
+
+</div>
+
+<div align="center">
+
+### 💻 Most Used Languages
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Avirup-301294&layout=compact&theme=tokyonight&hide_border=true" width="420"/>
 
 </div>
 
 ---
 
-### 📈 Activity Graph  
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avirup-301294&theme=react-dark&hide_border=true" alt="Avirup's Activity Graph"/>
-</div>
+# 📊 ACTIVITY
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avirup-301294&theme=react-dark&hide_border=true"/>
+</p>
+
 
 ---
 
-### 🧠 Fun Facts
-- 💬 I can explain tech concepts with real-world analogies  
-- 🎮 Gamer by night (Fire TV squad 🎬)  
-- 🐾 Cat Dad to **Ghibli** 🐈  
-- ☕ Coffee + Code = 💡 New Ideas  
+# 💻 TERMINAL
+
+```bash
+> whoami
+
+A Senior Engineer, Application Reliability passionate about AI / ML.
+
+> skills
+
+Python
+Java
+Spring Boot
+AWS
+Docker
+MongoDB
+React
+
+> hobbies
+
+Coding
+Coffee
+Cats
+Gaming
+
+> current_status
+
+Building something awesome...
+```
+
+---
+
+# 🌌 QUOTE
+
+> **"The future belongs to those who automate it."**
 
 ---
 
 <div align="center">
-  
-  ✨ _"Code. Learn. Build. Repeat."_ ✨  
-  <br/>
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="70px"/>
-  
+
+### ⚡ Thanks for visiting my profile ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,50:2563eb,100:0f172a"/>
+
 </div>
